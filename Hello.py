@@ -1,1 +1,0 @@
-Print("You're gay.")
